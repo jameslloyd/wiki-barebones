@@ -10,7 +10,6 @@ site_description: >-
 
 theme:
   name: material
-  custom_dir: docs/overrides
   palette:
     scheme: preference
   features:
