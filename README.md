@@ -1,7 +1,7 @@
 # wiki-barebones
 Barebones Wiki based on [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
-#example mkdocs.yml
+# example mkdocs.yml
 ```
 site_name: !ENV SITE_NAME
 #site_url: ${SITE_URL}
